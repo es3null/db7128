@@ -1,5 +1,3 @@
-   {
-     "telegram": "@your_username",
-     "deviceID": "80B6EA",
-     "expiry": "2026-12-31"
-   }
+  [
+    { "telegram": "@raza", "deviceID": "A1B2C3", "expiry": "2026-12-31" }
+  ]
