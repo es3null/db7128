@@ -1,0 +1,17 @@
+[
+  {
+    "telegram": "@raza",
+    "deviceID": "A1B2C3",
+    "expiry": "2026-12-31"
+  },
+  {
+    "telegram": "@ali_trader",
+    "deviceID": "F9X8T2",
+    "expiry": "2025-08-01"
+  },
+  {
+    "telegram": "@user3",
+    "deviceID": "K2L9P1",
+    "expiry": "2026-03-15"
+  }
+]
